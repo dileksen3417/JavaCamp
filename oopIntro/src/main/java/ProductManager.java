@@ -4,6 +4,6 @@ public class ProductManager {
     }
 
     public void addToCart(Product product) {
-        System.out.println(product.name + "\türünü sepete eklendi.");
+        System.out.println(product.getName() + "\türünü sepete eklendi.");
     }
 }
