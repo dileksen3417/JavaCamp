@@ -9,6 +9,7 @@
         <module name="kodlamaIODemo" />
         <module name="inheritance2" />
         <module name="oopIntro" />
+        <module name="kodlamaIo2" />
       </profile>
     </annotationProcessing>
   </component>
