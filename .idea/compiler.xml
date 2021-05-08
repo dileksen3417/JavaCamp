@@ -13,6 +13,7 @@
         <module name="coordinat" />
         <module name="interfaceDemo" />
         <module name="gamerTracking" />
+        <module name="nLayerdDemo" />
         <module name="kodlamaIo2" />
       </profile>
     </annotationProcessing>

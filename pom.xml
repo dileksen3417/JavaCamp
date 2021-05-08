@@ -17,6 +17,7 @@
         <module>abstractDemo</module>
         <module>coordinat</module>
         <module>gamerTracking</module>
+        <module>nLayerdDemo</module>
     </modules>
 
     <properties>
