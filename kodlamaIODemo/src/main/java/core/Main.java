@@ -1,7 +1,6 @@
 package core;
 
-import entity.Course;
-import service.ICourseService;
+import domain.Course;
 import service.impl.CourseServiceImpl;
 
 import java.util.ArrayList;

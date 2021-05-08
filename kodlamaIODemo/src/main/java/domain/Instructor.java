@@ -1,4 +1,4 @@
-package entity;
+package domain;
 
 public class Instructor extends Person {
 }

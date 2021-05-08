@@ -1,4 +1,4 @@
-package entity;
+package domain;
 
 public class Course {
     private long id;

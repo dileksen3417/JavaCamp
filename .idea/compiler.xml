@@ -9,8 +9,16 @@
         <module name="kodlamaIODemo" />
         <module name="inheritance2" />
         <module name="oopIntro" />
+        <module name="abstractDemo" />
+        <module name="coordinat" />
+        <module name="interfaceDemo" />
+        <module name="gamerTracking" />
         <module name="kodlamaIo2" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="CoffeeShopTrackingSystem" target="8" />
+      <module name="mernis" target="14" />
+    </bytecodeTargetLevel>
   </component>
 </project>

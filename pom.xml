@@ -13,6 +13,10 @@
         <module>oopIntro</module>
         <module>inheritance2</module>
         <module>kodlamaIo2</module>
+        <module>interfaceDemo</module>
+        <module>abstractDemo</module>
+        <module>coordinat</module>
+        <module>gamerTracking</module>
     </modules>
 
     <properties>
