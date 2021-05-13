@@ -15,6 +15,7 @@
         <module name="gamerTracking" />
         <module name="nLayerdDemo" />
         <module name="kodlamaIo2" />
+        <module name="eCommerceDemo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>

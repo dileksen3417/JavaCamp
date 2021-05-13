@@ -18,6 +18,7 @@
         <module>coordinat</module>
         <module>gamerTracking</module>
         <module>nLayerdDemo</module>
+        <module>eCommerceDemo</module>
     </modules>
 
     <properties>
