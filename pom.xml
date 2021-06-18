@@ -19,6 +19,9 @@
         <module>gamerTracking</module>
         <module>nLayerdDemo</module>
         <module>eCommerceDemo</module>
+        <module>jpa</module>
+        <module>jpaOneToOne</module>
+        <module>jpaElementCollections</module>
     </modules>
 
     <properties>

@@ -8,18 +8,23 @@
         <outputRelativeToContentRoot value="true" />
         <module name="kodlamaIODemo" />
         <module name="inheritance2" />
-        <module name="oopIntro" />
-        <module name="abstractDemo" />
         <module name="coordinat" />
         <module name="interfaceDemo" />
-        <module name="gamerTracking" />
+        <module name="jpaElementCollections" />
         <module name="nLayerdDemo" />
+        <module name="jpaElementCollection" />
         <module name="kodlamaIo2" />
+        <module name="oopIntro" />
+        <module name="abstractDemo" />
+        <module name="jpaOneToOne" />
+        <module name="gamerTracking" />
+        <module name="jpa" />
         <module name="eCommerceDemo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="CoffeeShopTrackingSystem" target="8" />
+      <module name="jpaFetchType" target="14" />
       <module name="mernis" target="14" />
     </bytecodeTargetLevel>
   </component>
